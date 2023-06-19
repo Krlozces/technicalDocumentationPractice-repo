@@ -1,3 +1,3 @@
 # Demo 1
 
-Practicing HTML, CSS and Git
+A basic webpage practicing HTML, CSS, and Git
